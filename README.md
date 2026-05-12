@@ -8,7 +8,7 @@
 <br/><br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=syed-ahmed-dev&color=blueviolet&style=flat)
-[![GitHub followers](https://img.shields.io/github/followers/syed-ahmed-dev?label=Follow&style=social)](https://github.com/syed-ahmed-dev)
+[![GitHub followers](https://img.shields.io/github/followers/syed-ahmed-dev?label=Follow&style=social)](https://github.com/SyedMuhammadAhmed-dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/syed-muhammad-ahmed-2236a0251/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?style=flat)](https://portfolio-six-rho-34.vercel.app/)
 
