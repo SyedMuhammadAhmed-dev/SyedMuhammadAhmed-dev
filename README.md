@@ -7,8 +7,8 @@
 
 <br/><br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=syed-ahmed-dev&color=blueviolet&style=flat)
-[![GitHub followers](https://img.shields.io/github/followers/syed-ahmed-dev?label=Follow&style=social)](https://github.com/SyedMuhammadAhmed-dev)
+![Profile Views](https://komarev.com/ghpvc/?username=SyedMuhammadAhmed-dev&color=blueviolet&style=flat)
+[![GitHub followers](https://img.shields.io/github/followers/SyedMuhammadAhmed-dev?label=Follow&style=social)](https://github.com/SyedMuhammadAhmed-dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/syed-muhammad-ahmed-2236a0251/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?style=flat)](https://portfolio-six-rho-34.vercel.app/)
 
@@ -98,21 +98,21 @@ Enterprise microservices with API Gateway and authentication.
 <div align="center">
 
 <!-- GitHub Profile Stats -->
-<a href="https://github.com/syed-ahmed-dev">
-  <img src="https://github-readme-stats.vercel.app/api?username=syed-ahmed-dev&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats"/>
+<a href="https://github.com/SyedMuhammadAhmed-dev">
+  <img src="https://github-readme-stats.vercel.app/api?username=SyedMuhammadAhmed-dev&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats"/>
 </a>
 
 <br/><br/>
 
 <!-- Top Languages -->
-<a href="https://github.com/syed-ahmed-dev?tab=repositories">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=syed-ahmed-dev&layout=compact&theme=radical&hide_border=true" alt="Top Languages"/>
+<a href="https://github.com/SyedMuhammadAhmed-dev?tab=repositories">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SyedMuhammadAhmed-dev&layout=compact&theme=radical&hide_border=true" alt="Top Languages"/>
 </a>
 
 <br/><br/>
 
 <!-- Visitor Badge -->
-<img src="https://visitor-badge.glitch.me/badge?page_id=syed-ahmed-dev" alt="Visitor Badge"/>
+<img src="https://visitor-badge.glitch.me/badge?page_id=SyedMuhammadAhmed-dev" alt="Visitor Badge"/>
 
 </div>
 
@@ -123,7 +123,7 @@ Enterprise microservices with API Gateway and authentication.
 <div align="center">
 
 <!-- GitHub Trophies (works 100%) -->
-<img src="https://github-profile-trophy.vercel.app/?username=syed-ahmed-dev&theme=radical&no-frame=true&margin-w=10" alt="GitHub Trophies"/>
+<img src="https://github-profile-trophy.vercel.app/?username=SyedMuhammadAhmed-dev&theme=radical&no-frame=true&margin-w=10" alt="GitHub Trophies"/>
 
 </div>
 
@@ -134,7 +134,7 @@ Enterprise microservices with API Gateway and authentication.
 ## 📊 Contribution Activity
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=syed-ahmed-dev&theme=radical&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SyedMuhammadAhmed-dev&theme=radical&hide_border=true" />
 </div>
 
 ---
@@ -158,7 +158,7 @@ Contributions are welcome.
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:ssyedahmed31@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/syed-muhammad-ahmed-2236a0251/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?style=for-the-badge&logo=google-chrome)](https://portfolio-six-rho-34.vercel.app/)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/syed-ahmed-dev)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/SyedMuhammadAhmed-dev)
 
 </div>
 
@@ -170,6 +170,6 @@ Contributions are welcome.
 
 Made with ❤️ by **Syed Muhammad Ahmed**
 
-<img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fsyed-ahmed-dev&label=Visitors&countColor=%23263759&style=flat" />
+<img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FSyedMuhammadAhmed-dev&label=Visitors&countColor=%23263759&style=flat" />
 
 </div>
