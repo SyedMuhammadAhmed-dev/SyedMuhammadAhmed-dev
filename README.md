@@ -93,31 +93,6 @@ Enterprise microservices with API Gateway and authentication.
 
 ---
 
-## 📊 GitHub Analytics & Stats
-
-<div align="center">
-
-<!-- GitHub Profile Stats -->
-<a href="https://github.com/SyedMuhammadAhmed-dev">
-  <img src="https://github-readme-stats.vercel.app/api?username=SyedMuhammadAhmed-dev&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats"/>
-</a>
-
-<br/><br/>
-
-<!-- Top Languages -->
-<a href="https://github.com/SyedMuhammadAhmed-dev?tab=repositories">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SyedMuhammadAhmed-dev&layout=compact&theme=radical&hide_border=true" alt="Top Languages"/>
-</a>
-
-<br/><br/>
-
-<!-- Visitor Badge -->
-<img src="https://visitor-badge.glitch.me/badge?page_id=SyedMuhammadAhmed-dev" alt="Visitor Badge"/>
-
-</div>
-
----
-
 ## 🏆 Achievements
 
 <div align="center">
