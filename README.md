@@ -28,7 +28,7 @@ Experienced in **API design**, **microservices**, and **production deployments**
 - Performance Tuning & Caching
 - Docker & CI/CD Pipelines
 
-**Experience:** 3+ years (freelance & production)  
+**Experience:** 4+ years (freelance & production)  
 **Availability:** Open to remote & full-time opportunities
 
 ---
