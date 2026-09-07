@@ -65,8 +65,8 @@ Experienced in **API design**, **microservices**, and **production deployments**
 |---------|----------|--------------|-------------|
 | **NestJS** | TypeScript | Enterprise & Microservices | ⭐⭐⭐⭐⭐ |
 | **Node.js** | JavaScript | Real-time APIs | ⭐⭐⭐⭐ |
-| **Laravel** | PHP | Rapid MVPs & Admin Panels | ⭐⭐⭐ |
-| **Django** | Python | Data-driven Systems | ⭐⭐⭐⭐ |
+| **Laravel** | PHP | Rapid MVPs & Admin Panels | ⭐⭐⭐⭐⭐|
+| **Django** | Python | Data-driven Systems | ⭐⭐ |
 
 ---
 
